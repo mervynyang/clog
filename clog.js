@@ -22,6 +22,7 @@
             if (typeof element[0] === 'object') {
                 console.group(eleName);
                 console.table(element);
+                console.dir(element);
                 console.groupEnd();
             } else {
                 console.group(eleName);
