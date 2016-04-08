@@ -1,5 +1,5 @@
 # clog
-It's can print message automatic in chrome console
+It's can print message depend on your param's type automatic in chrome console
 
 ##useage
 
